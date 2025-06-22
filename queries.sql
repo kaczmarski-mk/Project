@@ -46,7 +46,7 @@ select
 	,m.last_name	as manager_last_name
 	,p.first_name	as partner_first_name
 	,p.last_name	as partner_last_name
-from managers_and_partners2 map2 
+from managers_and_partners map2
 inner join  managers m on map2.manager_id = m.manager_id
 INNER JOIN partners p ON map2.partner_id = p.partner_id
 
