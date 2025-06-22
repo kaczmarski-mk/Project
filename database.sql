@@ -33,7 +33,7 @@ values
 
 
 
-insert into managers_and_partners2
+insert into managers_and_partners
 (
 manager_id, partner_id
 )
