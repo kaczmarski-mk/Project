@@ -1,1 +1,1 @@
-# Project
+Project: Managers and Partners Database
