@@ -16,8 +16,7 @@ create table managers	(
 	,start_date date
 )
 
-alter table managers drop column start_date;
-alter table managers add column start_date date;
+
 
 
 
